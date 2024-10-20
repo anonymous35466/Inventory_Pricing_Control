@@ -97,9 +97,9 @@ If you use this repository, please cite the following paper:
 @article{your_paper,
   title={Offline Dynamic Inventory and Pricing Strategy: Addressing Censored and Dependent Demand},
   author={Authors’ names blinded for peer review},
-  journal={Management Science},
+  journal={},
   year={2024},
-  note={Manuscript MS-0001-1922.65}
+  note={}
 }
 ```
 
